@@ -1,0 +1,24 @@
+{
+  "name": "Crash_Base_Canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gstring-w/Crash_Base_Canvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gstring-w/Crash_Base_Canvas/issues"
+  },
+  "homepage": "https://github.com/Gstring-w/Crash_Base_Canvas#readme",
+  "dependencies": {
+    "@types/node": "^12.7.1",
+    "typescript": "^3.5.3"
+  }
+}
