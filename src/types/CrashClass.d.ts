@@ -1,7 +1,8 @@
 export interface ILocation {
   // 坐标
-  x: Number;
-  y: Number;
+  x: number;
+  y: number;
+  rotate: number;
 }
 
 export interface IElementClass {
