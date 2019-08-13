@@ -1,11 +1,11 @@
-import { Location } from "../types/CrashClass";
+import { ILocation } from "../types/CrashClass";
 
 /**
  * @param @Object location {x,y}
  */
 class CrashClass {
-  public location: Location;
-  constructor(location: Location) {
+  public location: ILocation;
+  constructor(location: ILocation) {
     this.location = location;
   }
 }

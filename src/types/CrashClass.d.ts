@@ -1,9 +1,10 @@
-export interface Location {
+export interface ILocation {
   // 坐标
   x: Number;
   y: Number;
 }
 
-export interface ElementClass<T> {
-  element: T;
+export interface IElementClass {
+  location: Location;
+  img: Element;
 }
